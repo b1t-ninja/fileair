@@ -1,4 +1,4 @@
-# fileair
+# fileair ✈
 For a while now I have used services like workupload and weshare. They are nice and easy to use, but at least the free tier has its limitations. 
 I recently came across the task of sharing (for my standarts) large files, 60GB+ to be percise. And I didn't want to signn up for yet another monthly subscription.
 So I did the only thing I had left, I've written a CLI for file sharing. Super staright forward. All with one command. 
